@@ -3,3 +3,4 @@ geopy>=2.4.1
 pandas>=2.0.3
 streamlit_folium>=0.22.1
 altair<5
+openpyxl>=3.1.2
